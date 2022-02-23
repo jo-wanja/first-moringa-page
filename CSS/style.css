@@ -1,0 +1,23 @@
+body{
+  background-color: aliceblue;
+}
+
+h1 {
+  color: rgb(131, 113, 86);
+  text-align: center;
+  font-family: fantasy;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+li{
+ color: aquamarine;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: coral;
+}
